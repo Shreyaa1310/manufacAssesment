@@ -1,4 +1,4 @@
-## reason for using file/folder 
+## reason for using file/folder
 
 1. src/components for reusable components like tables.
 2. src/utils for helper functions like data preprocessing.
@@ -6,7 +6,13 @@
 
    ## Project Setup
 
-1. Clone the repository
-2. Run `yarn install` to install dependencies
-3. Run `yarn dev` to start the project
+4. Clone the repository
+5. Run `yarn install` to install dependencies
+6. Run `yarn dev` to start the project
 
+## Table Screenshots
+
+![alt text](<Screenshot 2024-12-24 161026.png>)
+![alt text](<Screenshot 2024-12-24 161159.png>)
+![alt text](<Screenshot 2024-12-24 161210.png>)
+![alt text](<Screenshot 2024-12-24 161227.png>)
